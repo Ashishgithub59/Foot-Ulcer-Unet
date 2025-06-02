@@ -84,8 +84,9 @@ The project utilizes foot ulcer datasets from multiple sources:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/foot-ulcer-segmentation.git
-cd foot-ulcer-segmentation
+git clone https://github.com/Ashishgithub59/Foot-Ulcer-Unet.git
+cd Foot-Ulcer-Unet
+
 ```
 
 ### Install Dependencies
@@ -114,10 +115,8 @@ Since this is a single-file implementation, you can run it directly:
 
 ```bash
 # If it's a Jupyter notebook
-jupyter notebook foot_ulcer_segmentation.ipynb
+jupyter notebook foot_ulcer_efficientNet.ipynb
 
-# If it's a Python script
-python foot_ulcer_segmentation.py
 ```
 
 ### Implemented Models:
@@ -261,21 +260,18 @@ We welcome contributions! Please follow these steps:
 
 ## 👥 Authors
 
-**Ashish Kumar** - *Student ID: 22052541*
-- Email: ashish.22052541@kiit.ac.in
-- GitHub: [@ashish-kumar-1](https://github.com/ashish-kumar-1)
+**Ashish Kumar** 
+- Email: ashish.ashishcoc59@gmail.com
+- GitHub: (https://github.com/ashish-kumar-1)
 
 **Ashish Kumar** - *Student ID: 22052542*  
 - Email: ashish.22052542@kiit.ac.in
-- GitHub: [@ashish-kumar-2](https://github.com/ashish-kumar-2)
+- GitHub: (https://github.com/Ashishgithub59)
 
 **Supervisor:** Prof. Rajdeep Chatterjee
 - School of Computer Engineering
 - KIIT Deemed to be University, Bhubaneswar
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -287,9 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions, suggestions, or collaborations:
-- 📧 Email: ashish.22052541@kiit.ac.in
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/foot-ulcer-segmentation/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/foot-ulcer-segmentation/discussions)
+- 📧 Email: ashish.ashishcoc59@gmail.com
 
 ---
 
