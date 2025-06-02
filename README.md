@@ -281,7 +281,7 @@ Contributions and suggestions are welcome! This is an academic project, but I'm 
 ## 👥 Authors
 
 **Ashish Kumar** 
-- Email: ashish.ashishcoc59@gmail.com
+- Email: ashishcoc59@gmail.com
 - GitHub: https://github.com/Ashishgithub59
 
 **Supervisor:** Prof. Rajdeep Chatterjee
@@ -299,7 +299,7 @@ Contributions and suggestions are welcome! This is an academic project, but I'm 
 ## 📞 Contact
 
 For questions, suggestions, or collaborations:
-- 📧 Email: ashish.22052541@kiit.ac.in
+- 📧 Email: ashishcoc59@gmail.com
 
 ---
 
