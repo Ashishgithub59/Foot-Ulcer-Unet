@@ -5,18 +5,18 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Results](#results)
-- [Contributing](#contributing)
-- [Future Work](#future-work)
-- [References](#references)
-- [Authors](#authors)
+- [🩺 Overview](#-overview)
+- [✨ Features](#-features)
+- [🏗️ Architecture](#️-architecture)
+- [📊 Dataset](#-dataset)
+- [🛠️ Installation](#️-installation)
+- [🚀 Usage](#-usage)
+- [📈 Model Performance](#-model-performance)
+- [📸 Results](#-results)
+- [🤝 Contributing](#-contributing)
+- [🔮 Future Work](#-future-work)
+- [📚 References](#-references)
+- [👥 Authors](#-authors)
 
 ## 🩺 Overview
 
