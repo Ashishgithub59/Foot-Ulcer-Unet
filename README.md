@@ -2,7 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[License: MIT](https://opensource.org/licenses/MIT)
+
 
 ## 📋 Table of Contents
 - [🩺 Overview](#-overview)
